@@ -3,6 +3,7 @@ layout: post
 title:  "Spam Email and Custom Domain"
 date:   2020-11-1
 categories: email forwarding custom domain
+permalink: :slug
 ---
 I was getting way too many spam emails (both at work and personal email) that I got fed up. Inspired by the age old method of using a companies name as your middle name when signing up for mailing lists, coupons, new accounts, etc. and wanting to [de-google][deGoogle] as much as possible (I still use Android), I decided to use a custom domain and email forwarding to track which companies sell my email and to whom.
 
