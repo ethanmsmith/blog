@@ -23,7 +23,7 @@ email: blog@ethansmith.io
 description: >- # this means to ignore newlines until "baseurl:"
   This blog is an outlet for my tech related thoughts and dreams.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://blog.ethansmith.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ethansmith.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: N/A
 github_username:  ethanmsmith
 
